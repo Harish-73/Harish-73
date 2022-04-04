@@ -1,7 +1,7 @@
 <h1 align="center">Hi, folks!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>, I'm Harish!!!</h1>
 <br>
 
-<p>I am pursuing my Engineering in Computer Science. I am a person who likes to coding and interested in web development as well as in Machine Learning.</p><br>
+<p>I am pursuing my Engineering in Computer Science. I am a person who likes to code and interested in Machine Learning as well as in Web Development.</p><br>
 
 <div align = "">
 <h3>Languages and Tools known:</h3>
