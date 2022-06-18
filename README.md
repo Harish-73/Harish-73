@@ -1,4 +1,4 @@
-<h1 align="center">Hi, folks!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>, I'm Harish!!!</h1>
+<h1 align="center">Hi, folks!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = 40px width = 20px>, I'm Harish!!!</h1>
 <br>
 
 <p>I am pursuing my Engineering in Computer Science. I am a person who likes to code and interested in Machine Learning as well as in Web Development.</p><br>
